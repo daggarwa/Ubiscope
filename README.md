@@ -1,2 +1,1 @@
-# Ubiscope
-Drawing tutor for Google Glass
+# cse118-218-fa15_Team04
